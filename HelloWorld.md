@@ -22,3 +22,10 @@ plot(cars)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ## This is a markdown file
+## This is a secondary heading
+### This is a smaller heading
+
+* first item in List
+* second item
+* third item
+
